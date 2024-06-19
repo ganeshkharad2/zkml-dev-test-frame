@@ -1,0 +1,13 @@
+,Value
+Torch Model Accuracy,0.9761904761904762
+ZKML Model Accuracy,0.9666666666666667
+Average Times,"proof_generation_time       48.336812
+proof_verification_time      0.731200
+witness_generation_time      0.359780
+torch_model_predict_time     0.009827
+dtype: float64"
+Standard Deviation of Times,"proof_generation_time       5.753113
+proof_verification_time     0.235234
+witness_generation_time     0.144766
+torch_model_predict_time    0.007965
+dtype: float64"
